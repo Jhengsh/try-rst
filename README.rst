@@ -1,11 +1,9 @@
 .. image:: https://travis-ci.org/Jhengsh/tidyframe.svg?branch=master
    :target: https://travis-ci.org/Jhengsh/tidyframe
-   :alt: Build Status
 
 
 .. image:: https://codecov.io/gh/Jhengsh/tidyframe/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/Jhengsh/tidyframe
-   :alt: Build Status
 
 =======================================
 tidyframe: Clean Data to Tidy Dataframe
